@@ -1,11 +1,9 @@
 import java.util.Scanner;
 
 public class Goods {
-
     static String goodsName;
     static double goodsPrice;
     static double goodsPriceSum;
-
 
     public static void addGoods(int countUsers) {
         StringBuilder goodsList = new StringBuilder();

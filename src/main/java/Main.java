@@ -6,7 +6,6 @@ public class Main {
         int countUser;
         countUser = countUser();
         Goods.addGoods(countUser);
-
     }
 
     public static int countUser() {
@@ -23,7 +22,6 @@ public class Main {
                 } else {
                     return (countUser);
                 }
-
             } else {
                 System.out.println("Это не число");
             }
