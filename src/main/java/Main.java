@@ -23,6 +23,7 @@ public class Main {
                 } else {
                     return (countUser);
                 }
+
             } else {
                 System.out.println("Это не число");
             }
