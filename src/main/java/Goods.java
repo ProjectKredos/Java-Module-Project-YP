@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Финальная версия
 public class Goods {
     static String goodsName;
     static double goodsPrice;
